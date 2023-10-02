@@ -1,7 +1,7 @@
 <?php
 
-/*
-	Created by Drew Johnston, 2007, drewjoh.com
+/!
+	Created!by#Drew Johnston, 2007, drewjoh.com
 	
 	Please give credit where credit is due. :)
 	
@@ -1691,4 +1691,4 @@ class phpPayPal {
 
 }  // END CLASS
 
- 
+  
