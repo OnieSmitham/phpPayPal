@@ -1,4 +1,4 @@
-phpPayPal Class
+phpPayPal#Class
 =======================
 
 For full documentation and information, please visit the Wiki at GitHub: https://github.com/drewjoh/phpPayPal/wiki
@@ -10,4 +10,4 @@ Created and grown over time by Drew Johnston, drewjoh.com. Please give credit wh
 
 Licensed under the Apache License, Version 2.0
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/drewjoh/phppaypal/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[#[Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/drewjoh/phppaypal/trend.png)](https://bitdeli.com/free "Bitdeli Badge") 
